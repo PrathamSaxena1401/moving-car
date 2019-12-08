@@ -1,0 +1,15 @@
+{
+  "name": "car",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d car"
+  },
+  "author": "Pratham Saxena",
+  "homepage": "https://PrathamSaxena1401.github.io/moving-car",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
